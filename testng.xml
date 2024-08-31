@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test name="Test" thread-count="5">
+        <classes>
+           <!-- <class name="test.DataDrivenTests"/> -->
+            <!-- <class name="test.UserTest"/> -->
+            <class name="test.UserTestProperties"/>
+        </classes>
+    </test>
+</suite>
