@@ -8,6 +8,7 @@
            <!-- <class name="test.DataDrivenTests"/> -->
             <!-- <class name="test.UserTest"/> -->
             <class name="test.UserTestProperties"/>
+            <class name="test.GraphQL"/>
         </classes>
     </test>
 </suite>

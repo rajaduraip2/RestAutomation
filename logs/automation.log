@@ -282,3 +282,15 @@
 17:18:17.350 [main] INFO  test.GraphQL - **********************User is Created *******************
 17:21:12.781 [main] INFO  test.GraphQL - **********************Creating User*******************
 17:21:16.234 [main] INFO  test.GraphQL - **********************User is Created *******************
+17:29:12.265 [main] INFO  test.UserTestProperties - **********************Creating User*******************
+17:29:16.029 [main] INFO  test.UserTestProperties - **********************User is Created *******************
+17:29:16.041 [main] INFO  test.UserTestProperties - ********************** Reading User Info*******************
+17:29:17.535 [main] INFO  test.UserTestProperties - **********************User Info id displayed*******************
+17:29:17.541 [main] INFO  test.UserTestProperties - ********************** Updating User Info*******************
+17:29:19.000 [main] INFO  test.UserTestProperties - ********************** User Info updated*******************
+17:29:19.004 [main] INFO  test.UserTestProperties - ********************** Deleting User Info*******************
+17:29:20.474 [main] INFO  test.UserTestProperties - ********************** User Info deleted.*******************
+17:29:20.481 [main] INFO  test.GraphQL - **********************Creating User*******************
+17:29:22.405 [main] INFO  test.GraphQL - **********************User is Created *******************
+17:29:22.407 [main] INFO  test.GraphQL - **********************Creating User*******************
+17:29:24.045 [main] INFO  test.GraphQL - **********************User is Created *******************
