@@ -23,4 +23,8 @@ public class Routes {
     public static String pet_put_Url=base_Url+"/pet";
     public static String pet_delete_Url=base_Url+"/pet/{petId}";
 
+    //GraphQL
+
+    public  static  String grphQl_Url="https://hasura.io/learn/graphql";
+
 }

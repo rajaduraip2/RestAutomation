@@ -258,3 +258,27 @@
 21:53:36.915 [main] INFO  test.UserTestProperties - ********************** User Info updated*******************
 21:53:36.923 [main] INFO  test.UserTestProperties - ********************** Deleting User Info*******************
 21:53:38.846 [main] INFO  test.UserTestProperties - ********************** User Info deleted.*******************
+16:38:39.822 [main] INFO  test.GraphQL - **********************Creating User*******************
+16:38:43.425 [main] INFO  test.GraphQL - **********************User is Created *******************
+16:39:44.096 [main] INFO  test.GraphQL - **********************Creating User*******************
+16:39:47.409 [main] INFO  test.GraphQL - **********************User is Created *******************
+16:43:36.127 [main] INFO  test.GraphQL - **********************Creating User*******************
+16:43:39.488 [main] INFO  test.GraphQL - **********************User is Created *******************
+16:44:50.129 [main] INFO  test.GraphQL - **********************Creating User*******************
+16:44:53.402 [main] INFO  test.GraphQL - **********************User is Created *******************
+16:48:17.939 [main] INFO  test.GraphQL - **********************Creating User*******************
+16:48:21.154 [main] INFO  test.GraphQL - **********************User is Created *******************
+17:06:06.580 [main] INFO  test.GraphQL - **********************Creating User*******************
+17:06:09.965 [main] INFO  test.GraphQL - **********************User is Created *******************
+17:12:27.160 [main] INFO  test.GraphQL - **********************Creating User*******************
+17:12:30.848 [main] INFO  test.GraphQL - **********************User is Created *******************
+17:13:01.138 [main] INFO  test.GraphQL - **********************Creating User*******************
+17:13:04.940 [main] INFO  test.GraphQL - **********************User is Created *******************
+17:13:37.802 [main] INFO  test.GraphQL - **********************Creating User*******************
+17:13:40.233 [main] INFO  test.GraphQL - **********************User is Created *******************
+17:14:27.233 [main] INFO  test.GraphQL - **********************Creating User*******************
+17:14:30.475 [main] INFO  test.GraphQL - **********************User is Created *******************
+17:18:13.493 [main] INFO  test.GraphQL - **********************Creating User*******************
+17:18:17.350 [main] INFO  test.GraphQL - **********************User is Created *******************
+17:21:12.781 [main] INFO  test.GraphQL - **********************Creating User*******************
+17:21:16.234 [main] INFO  test.GraphQL - **********************User is Created *******************
